@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kevi47/FilmLand.git/static/css/main.8a8d406a.css",
+    "main.js": "/Kevi47/FilmLand.git/static/js/main.c4c3723e.js",
+    "static/js/787.b1eed8e9.chunk.js": "/Kevi47/FilmLand.git/static/js/787.b1eed8e9.chunk.js",
+    "index.html": "/Kevi47/FilmLand.git/index.html",
+    "main.8a8d406a.css.map": "/Kevi47/FilmLand.git/static/css/main.8a8d406a.css.map",
+    "main.c4c3723e.js.map": "/Kevi47/FilmLand.git/static/js/main.c4c3723e.js.map",
+    "787.b1eed8e9.chunk.js.map": "/Kevi47/FilmLand.git/static/js/787.b1eed8e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a8d406a.css",
+    "static/js/main.c4c3723e.js"
+  ]
+}
